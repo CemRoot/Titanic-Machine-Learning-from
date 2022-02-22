@@ -4232,6 +4232,6 @@ submission = pd.DataFrame(test['PassengerId'],test_data['Survived'])
 submission.to_csv("Submission.csv")
 ```
 ```
-![image](https://user-images.githubusercontent.com/61415601/155092885-f01a1c4e-1510-4276-b464-efc5df65d67a.png)
+![png](https://user-images.githubusercontent.com/61415601/155092885-f01a1c4e-1510-4276-b464-efc5df65d67a.png)
 ```
 
